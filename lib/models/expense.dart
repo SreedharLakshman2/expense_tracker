@@ -16,6 +16,7 @@ const categoryIcons = {
 };
 
 class Expense {
+  // constructor
   Expense(
       {required this.title,
       required this.amount,
